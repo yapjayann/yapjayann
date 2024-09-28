@@ -6,7 +6,7 @@ Final Year Computer Science Student
 
 My tech journey started when I took my first Java course in college. Since then, I have dived into the world of programming, exploring various languages and technologies. I've gained hands-on experience with HTML, CSS, basic Javascript, Java, Python and Scala, where I've worked on projects that blend creativity and technical skills. Along the way, I've developed a strong interest in cloud computing and cybersecurity, realizing how critical they are in today’s tech landscape. As I continue to learn and grow, I'm excited to take on new challenges and collaborate on projects that push the boundaries of what technology can achieve. Whether it's building web applications, securing systems, or diving into AI, I’m all about expanding my skill set and contributing to innovative solutions.
 
-* 🌍  I'm based in Malaysia
+* 🌏  I'm based in Malaysia
 * ✉️  You can contact me at [yapjayann@gmail.com](mailto:yapjayann@gmail.com)
 * 🧠  I'm learning about cloud infrastructure and security
 * 🤝  I'm open to collaborating on fun and interesting projects
@@ -41,6 +41,6 @@ src="https://img.shields.io/github/followers/yapjayann?logo=github&style=for-the
 
 <div width="100%" align="center"><a href="https://github.com/yapjayann/POS-System" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yapjayann&repo=POS-System&title_color=ec4899&text_color=a855f7&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/yapjayann/campus-network-architecture" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yapjayann&repo=campus-network-architecture&title_color=ec4899&text_color=a855f7&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+
 
 <div width="100%" align="center"><a href="https://github.com/yapjayann/paragraph-extraction" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yapjayann&repo=paragraph-extraction&title_color=ec4899&text_color=a855f7&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div>
