@@ -11,6 +11,8 @@ My tech journey started when I took my first Java course in college foundation. 
 * 🧠  I'm learning about cloud architecture and security
 * 🤝  I'm open to collaborating on fun and interesting projects
 * 🎮  I enjoy chill/cosy single-player games on my free time
+* 🐱  I love cats  
+* 🎵  I listen to a lot of metal music
 
 <a href="https://www.github.com/yapjayann" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/yapjayann?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
