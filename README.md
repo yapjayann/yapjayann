@@ -8,7 +8,7 @@ My tech journey started when I took my first Java course in college foundation. 
 
 * 🌏  I'm based in Malaysia
 * ✉️  You can contact me at [yapjayann@gmail.com](mailto:yapjayann@gmail.com)
-* 🧠  I'm learning about cloud architecture and security
+* 🧠  I'm learning about cloud architecture solutions
 * 🤝  I'm open to collaborating on fun and interesting projects
 * 🎮  I enjoy chill/cosy single-player games on my free time
 * 🐱  I love cats  
