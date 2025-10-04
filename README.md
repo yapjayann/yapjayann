@@ -118,33 +118,6 @@ src="https://img.shields.io/github/followers/yapjayann?logo=github&style=for-the
 
 <a href="https://github.com/yapjayann" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yapjayann&langs_count=10&title_color=ec4899&text_color=a855f7&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/yapjayann/POS-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yapjayann&repo=POS-System&title_color=ec4899&text_color=a855f7&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/yapjayann/campus-network-architecture">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yapjayann&repo=campus-network-architecture&title_color=ec4899&text_color=a855f7&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/yapjayann/paragraph-extraction">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yapjayann&repo=paragraph-extraction&title_color=ec4899&text_color=a855f7&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/yapjayann/mqtt">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yapjayann&repo=mqtt&title_color=ec4899&text_color=a855f7&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 
