@@ -120,8 +120,31 @@ src="https://img.shields.io/github/followers/yapjayann?logo=github&style=for-the
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/yapjayann/POS-System" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yapjayann&repo=POS-System&title_color=ec4899&text_color=a855f7&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/yapjayann/campus-network-architecture" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yapjayann&repo=campus-network-architecture&title_color=ec4899&text_color=a855f7&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/yapjayann/POS-System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yapjayann&repo=POS-System&title_color=ec4899&text_color=a855f7&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/yapjayann/campus-network-architecture">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yapjayann&repo=campus-network-architecture&title_color=ec4899&text_color=a855f7&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/yapjayann/paragraph-extraction">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yapjayann&repo=paragraph-extraction&title_color=ec4899&text_color=a855f7&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/yapjayann/mqtt">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yapjayann&repo=mqtt&title_color=ec4899&text_color=a855f7&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
-
-<div width="100%" align="center"><a href="https://github.com/yapjayann/paragraph-extraction" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yapjayann&repo=paragraph-extraction&title_color=ec4899&text_color=a855f7&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div>
