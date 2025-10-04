@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jen
 ===========================================================================================================================
 
-Final Year Computer Science Student
+Computer Science Fresh Graduate
 -----------------------------------
 
 My tech journey started when I took my first Java course in college foundation. Since then, I have dived into the world of programming, exploring various languages and technologies. I've gained hands-on experience with HTML, CSS, basic Javascript, Java, Python and Scala, where I've worked on projects that blend creativity and technical skills. Along the way, I've developed a strong interest in cloud computing, networking and cybersecurity, realizing how critical they are in today’s tech landscape. As I continue to learn and grow, I'm excited to take on new challenges and collaborate on projects that push the boundaries of what technology can achieve. Whether it's designing cloud architectures, configuring networking components, or diving into specific fields like IoT, I’m all about expanding my skill set and contributing to innovative solutions.
